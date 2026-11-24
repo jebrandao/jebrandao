@@ -3,6 +3,7 @@
 # Olá, eu sou Jefferson Brandão!
 
 **Professor Universitário em TI e Computação · Instrutor de Cursos Especiais · Analista de suporte - Desenvolvedor**
+
 **Centro Universitário IBMR · Ânima Educação · Firjan SENAI · Benu Informática**
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=0A66C2&center=true&vCenter=true&width=640&lines=Professor+de+TI+h%C3%A1+mais+de+15+anos;Cloud+%C2%B7+IA+%C2%B7+Programa%C3%A7%C3%A3o+%C2%B7+Redes;Aprendizado+cont%C3%ADnuo+%F0%9F%9A%80" alt="Texto animado" />
