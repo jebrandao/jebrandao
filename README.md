@@ -86,9 +86,8 @@ Ministro aulas de back-end, front-end, banco de dados, programação orientada a
 | 2025 – hoje | Professor EAD (redes de computadores e administração de redes) | Ânima Educação |
 | 2016 – hoje | Instrutor de Cursos Especiais (capacitação, aprendizagem e técnico em TI) | Sistema FIRJAN |
 | 2004 – hoje | Analista de suporte de TI | Benu Informática |
-| 2011 – 2016 | Professor do Curso Técnico em Informática | Colégio Euclides da Cunha |
 
-Na Firjan participei dos projetos SENAI+Indústria e Pré-Acelera e expus na Expotec 2018 e 2019.
+Na Firjan participei dos projetos SENAI+Indústria, Inova e Pré-Acelera e expus na Expotec 2018 e 2019.
 
 ---
 
@@ -161,7 +160,7 @@ Lista completa e credenciais no [LinkedIn](https://www.linkedin.com/in/jebrandao
 
 <div align="center">
 
-### Vanis conversar?
+### Vamos conversar?
 
 Aulas, parcerias, palestras ou oportunidades: me chame no LinkedIn.
 
